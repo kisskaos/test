@@ -1,2 +1,3 @@
 Master branch first commit
 Branch one second commit adding this line of text
+Branch one third commit adding this line of text
